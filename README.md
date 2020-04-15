@@ -1,5 +1,5 @@
 ![build](https://github.com/LuckyLukas/cleaningpipe/workflows/build/badge.svg?branch=master)
-
+![codecov](https://codecov.io/gh/LuckyLukas/cleaningpipe/branch/master/graph/badge.svg)
 ### cleaning pipe
 
 wraps in io.Reader and cleans unwanted bytes from the stream
