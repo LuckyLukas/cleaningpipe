@@ -1,3 +1,5 @@
+![build](https://github.com/LuckyLukas/cleaningpipe/workflows/build/badge.svg?branch=master)
+
 ### cleaning pipe
 
 wraps in io.Reader and cleans unwanted bytes from the stream
