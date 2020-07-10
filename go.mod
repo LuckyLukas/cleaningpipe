@@ -1,4 +1,4 @@
-module github.com/LuckyLukas/cleaningpipe
+module github.com/luckylookas/cleaningpipe
 
 go 1.13
 
